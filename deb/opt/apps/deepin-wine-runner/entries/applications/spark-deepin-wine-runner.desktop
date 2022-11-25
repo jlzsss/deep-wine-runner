@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 X-Categories=System;Wine;
-Exec=/usr/bin/deepin-wine-runner %F
+Exec=/usr/bin/deepin-wine-runner %U
 Icon=/opt/apps/deepin-wine-runner/deepin-wine-runner.svg
 Name=Wine Runner
 Name[zh]=Wine 运行器
