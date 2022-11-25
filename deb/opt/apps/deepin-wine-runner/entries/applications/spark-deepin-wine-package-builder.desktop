@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 X-Categories=System;Wine;
-Exec=/usr/bin/deepin-wine-package-builder "~/.wine" %F
+Exec=/usr/bin/deepin-wine-package-builder "~/.wine" %U
 Icon=/opt/apps/deepin-wine-runner/deepin-wine-runner.svg
 Name=Wine Package Builder
 Name[zh]=Wine 打包器
