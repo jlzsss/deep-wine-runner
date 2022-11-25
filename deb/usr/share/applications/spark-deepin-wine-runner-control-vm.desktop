@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 X-Categories=System;Wine;
-Exec=/opt/apps/deepin-wine-runner/RunVM.sh %F
+Exec=/opt/apps/deepin-wine-runner/RunVM.sh %U
 Icon=/opt/apps/deepin-wine-runner/deepin-wine-runner.svg
 Name=Setting VirtualMachine
 Name[zh]=设置 Windows 虚拟机
