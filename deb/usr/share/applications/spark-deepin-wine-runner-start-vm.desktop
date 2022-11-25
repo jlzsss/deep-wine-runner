@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 X-Categories=System;
-Exec=/opt/apps/deepin-wine-runner/StartVM.sh %F
+Exec=/opt/apps/deepin-wine-runner/StartVM.sh %U
 Icon=/opt/apps/deepin-wine-runner/deepin-wine-runner.svg
 Name=Start Windows VirtualMachine
 Name[zh]=开启 Windows 虚拟机
